@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning graphics.
+- 🔭 I’m currently working on LLM agents and diffusion models.
 <!--
 **Arcodius/Arcodius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
