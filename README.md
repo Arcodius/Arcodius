@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🌱 I’m currently learning graphics.
-- 🔭 I’m currently working on LLM agents and diffusion models.
+- 🔭 I’m currently working on LLM agents/SFT, along with some C# application in Unity.
 <!--
 **Arcodius/Arcodius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
